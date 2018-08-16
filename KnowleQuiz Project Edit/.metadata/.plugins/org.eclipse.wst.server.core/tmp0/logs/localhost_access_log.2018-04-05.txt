@@ -1,0 +1,12 @@
+127.0.0.1 - - [05/Apr/2018:07:40:17 -0400] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [05/Apr/2018:07:40:18 -0400] "GET /KnowleQuiz/LogIn.jsp HTTP/1.1" 200 1213
+0:0:0:0:0:0:0:1 - - [05/Apr/2018:07:40:31 -0400] "POST /KnowleQuiz/Login HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [05/Apr/2018:07:40:31 -0400] "GET /KnowleQuiz/Welcome.jsp HTTP/1.1" 200 1466
+0:0:0:0:0:0:0:1 - - [05/Apr/2018:07:40:33 -0400] "GET /KnowleQuiz/contact_us.jsp HTTP/1.1" 200 1465
+0:0:0:0:0:0:0:1 - - [05/Apr/2018:07:40:34 -0400] "GET /KnowleQuiz/about.jsp HTTP/1.1" 200 1248
+0:0:0:0:0:0:0:1 - - [05/Apr/2018:07:40:36 -0400] "GET /KnowleQuiz/profile.jsp HTTP/1.1" 200 2326
+0:0:0:0:0:0:0:1 - - [05/Apr/2018:07:40:37 -0400] "GET /KnowleQuiz/leader_board.jsp HTTP/1.1" 200 3352
+0:0:0:0:0:0:0:1 - - [05/Apr/2018:07:40:40 -0400] "GET /KnowleQuiz/contact_us.jsp HTTP/1.1" 200 1465
+0:0:0:0:0:0:0:1 - - [05/Apr/2018:07:40:50 -0400] "POST /KnowleQuiz/Logout HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [05/Apr/2018:07:40:50 -0400] "GET /KnowleQuiz/LogIn.jsp HTTP/1.1" 200 1213
+0:0:0:0:0:0:0:1 - - [05/Apr/2018:07:41:05 -0400] "GET /KnowleQuiz/LogIn.jsp HTTP/1.1" 200 1213

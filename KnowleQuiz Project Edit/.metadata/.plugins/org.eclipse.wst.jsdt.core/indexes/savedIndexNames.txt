@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+E:\KnowleQuiz Project Edit\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2021640997.index
+533979270.index
+3227302256.index
+730505269.index
+2097238649.index
+874528460.index
